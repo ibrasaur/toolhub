@@ -41,6 +41,7 @@ const COURSES_DATA: Course[] = [
   // Business & Finance
   { name: "Financial Markets", provider: "Yale University", category: "Business & Finance", level: "Beginner", type: "Audit Free", hasCert: false, hours: "33 hours", url: "https://www.coursera.org/learn/financial-markets-global" },
   { name: "Entrepreneurship in Emerging Economies", provider: "HarvardX", category: "Business & Finance", level: "All Levels", type: "Free", hasCert: false, hours: "6 weeks", url: "https://www.edx.org/course/entrepreneurship-in-emerging-economies" },
+  { name: "Business Statistics", provider: "Saylor Academy", category: "Business & Finance", level: "Beginner", type: "Free", hasCert: true, hours: "40 hours", url: "https://learn.saylor.org/course/view.php?id=1247" },
   // STEM Foundations
   { name: "Calculus 1", provider: "Khan Academy", category: "STEM Foundations", level: "Beginner", type: "Free", hasCert: false, hours: "Self-paced", url: "https://www.khanacademy.org/math/calculus-1" },
   { name: "Physics library", provider: "Khan Academy", category: "STEM Foundations", level: "Beginner", type: "Free", hasCert: false, hours: "Self-paced", url: "https://www.khanacademy.org/science/physics" },
