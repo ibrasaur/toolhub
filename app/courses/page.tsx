@@ -42,9 +42,18 @@ const COURSES_DATA: Course[] = [
   { name: "Financial Markets", provider: "Yale University", category: "Business & Finance", level: "Beginner", type: "Audit Free", hasCert: false, hours: "33 hours", url: "https://www.coursera.org/learn/financial-markets-global" },
   { name: "Entrepreneurship in Emerging Economies", provider: "HarvardX", category: "Business & Finance", level: "All Levels", type: "Free", hasCert: false, hours: "6 weeks", url: "https://www.edx.org/course/entrepreneurship-in-emerging-economies" },
   { name: "Business Statistics", provider: "Saylor Academy", category: "Business & Finance", level: "Beginner", type: "Free", hasCert: true, hours: "40 hours", url: "https://learn.saylor.org/course/view.php?id=1247" },
+  { name: "Introduction to Business", provider: "Saylor Academy", category: "Business & Finance", level: "Beginner", type: "Free", hasCert: true, hours: "62 hours", url: "https://learn.saylor.org/course/view.php?id=1249" },
+  { name: "Introduction to Financial Accounting", provider: "Saylor Academy", category: "Business & Finance", level: "Beginner", type: "Free", hasCert: true, hours: "63 hours", url: "https://learn.saylor.org/course/view.php?id=1261" },
+  { name: "Managerial Accounting", provider: "Saylor Academy", category: "Business & Finance", level: "Beginner", type: "Free", hasCert: true, hours: "53 hours", url: "https://learn.saylor.org/course/view.php?id=53" },
+  { name: "Customer Service", provider: "Saylor Academy", category: "Business & Finance", level: "Beginner", type: "Free", hasCert: true, hours: "26 hours", url: "https://learn.saylor.org/course/view.php?id=1262" },
+  { name: "Business Ethics", provider: "Saylor Academy", category: "Business & Finance", level: "Beginner", type: "Free", hasCert: true, hours: "14 hours", url: "https://learn.saylor.org/course/view.php?id=1260" },
+  { name: "Principles of Finance", provider: "Saylor Academy", category: "Business & Finance", level: "Beginner", type: "Free", hasCert: true, hours: "33 hours", url: "https://learn.saylor.org/course/view.php?id=1252" },
+  { name: "Principles of Marketing", provider: "Saylor Academy", category: "Business & Finance", level: "Beginner", type: "Free", hasCert: true, hours: "30 hours", url: "https://learn.saylor.org/course/view.php?id=1250" },
+  { name: "Business Law", provider: "Saylor Academy", category: "Business & Finance", level: "Beginner", type: "Free", hasCert: true, hours: "39 hours", url: "https://learn.saylor.org/course/view.php?id=1259" },
   // STEM Foundations
   { name: "Calculus 1", provider: "Khan Academy", category: "STEM Foundations", level: "Beginner", type: "Free", hasCert: false, hours: "Self-paced", url: "https://www.khanacademy.org/math/calculus-1" },
   { name: "Physics library", provider: "Khan Academy", category: "STEM Foundations", level: "Beginner", type: "Free", hasCert: false, hours: "Self-paced", url: "https://www.khanacademy.org/science/physics" },
+  { name: "Intoduction to Statistics", provider: "Saylor Academy", category: "STEM Foundations", level: "Beginner", type: "Free", hasCert: true, hours: "15 hours", url: "https://learn.saylor.org/course/view.php?id=1274" },
   // Languages
   { name: "Duolingo Language Tracks", provider: "Duolingo", category: "Languages", level: "All Levels", type: "Free", hasCert: false, hours: "Self-paced", url: "https://www.duolingo.com" },
   { name: "Basic Spanish 1", provider: "UPValenciaX", category: "Languages", level: "Beginner", type: "Free", hasCert: false, hours: "7 weeks", url: "https://www.edx.org/course/basic-spanish-1-getting-started" }
